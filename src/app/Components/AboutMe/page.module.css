@@ -1,0 +1,11 @@
+.main{
+    background: #ccf381;
+    width: 100vw;
+    height: 100vh;
+    padding: 9vw 7vw;
+}
+
+.heading{
+    font-size: 5vw;
+    color: blueviolet;
+}
